@@ -1,0 +1,57 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+table img, .page ul img {
+    
+}
+.page_margins {
+    max-width: 100%;
+/*    width: 78.4em;*/
+}
+.page {
+    padding: 0px;
+    margin: 0px;
+    height: 60px;
+}
+.page ul {
+    white-space:nowrap;
+    top: 5px;
+    position: relative;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.page ul li {
+    display: inline;
+}
+.page ul li a {
+    text-decoration: none;
+    color: black;
+/*    background: #eaeaea;*/
+    padding: 15px 5px;
+    top: 10px;
+    position: relative;
+    margin: 0;
+    border: 1px solid white;
+}
+.page ul li a span {
+    padding: 0px 3px;
+}
+.page ul li a:hover
+{
+    border: 1px solid #888;
+/*    text-decoration: underline;*/
+}
+.page ul img {
+    position: relative;
+    top: -7px;
+}
+.shortcut {
+    background-color: #fff152;
+    border: 1px solid black;
+    padding: 2px 5px;
+    position: absolute;
+    z-index: 100;
+    margin-left: -10px;
+    margin-top: -10px;
+}
