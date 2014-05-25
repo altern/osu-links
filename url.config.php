@@ -46,6 +46,7 @@
         'wine' => array('link' => 'http://heartofwillamette.com/', 'text' => 'Wineries', 'image' => 'wine.png', 'shortcut' => 'WI'),
         'bike' => array('link' => 'http://www.corvallisbikes.org/', 'text' => 'Bike co-op', 'image' => 'bike.png', 'shortcut' => 'BC'),
         'enterprise' => array('link' => 'http://www.enterprisecarshare.com/', 'text' => 'Car share', 'image' => 'enterprise.png', 'shortcut' => 'CS'),
+        'intouch' => array('link' => 'https://intouch.pacificsource.com', 'text' => 'Pacific Source', 'image' => 'pacificsource.png', 'shortcut' => 'PS'),
         'hike' => array('link' => 'http://www.localhikes.com/', 'text' => 'Hiking', 'image' => 'hike.png', 'shortcut' => 'HI'),
         'piano' => array('link' => 'http://www.corvallispiano.org/', 'text' => 'Piano', 'image' => 'piano.png', 'shortcut' => 'PI'),
         'env' => array('link' => 'http://www.corvallisenvironmentalcenter.org/', 'text' => 'Environment', 'image' => 'env.png', 'shortcut' => 'EN'),
