@@ -46,9 +46,9 @@
                 <div id="edge-br"></div>
             </div>
         </div>
-        <? endfor ?>                
+        <?php endfor; ?>                
         <div style="height: 50px"></div> 
-         <?php 
+        <?php 
         $rows_num = 3;
         for($i = 0; $i < $rows_num; $i++):
         ?>
@@ -77,7 +77,7 @@
                 <div id="edge-br"></div>
             </div>
         </div>
-        <? endfor ?>  
+        <?php endfor; ?>  
     </div>
     </body>
 </html>

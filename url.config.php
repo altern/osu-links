@@ -14,6 +14,7 @@
         'blog' => array('link' => 'http://blogs.oregonstate.edu/', 'text' => 'Blogs', 'image' => 'blog.png', 'shortcut' => 'BL'),
         'osl' => array('link' => 'http://osuosl.org/', 'text' => 'Open Source Lab', 'image' => 'osl.png', 'shortcut' => 'LA'),
         'myosu' => array('link' => 'http://myosu.oregonstate.edu/', 'text' => 'My OSU', 'image' => 'myosu.png', 'shortcut' => 'U'),
+        'mybill' => array('link' => 'http://mybill.oregonstate.edu/', 'text' => 'My Bill', 'image' => 'money.png', 'shortcut' => 'MB'),
         'beaver' => array('link' => 'http://osubeaverstore.com/', 'text' => 'BeaverStore', 'image' => 'os.png', 'shortcut' => 'BS'),
         'sport' => array('link' => 'http://ourbeavernation.com/', 'text' => 'Sport', 'image' => 'beaver.png', 'shortcut' => 'S'),
         // 'tickets' => array('link' => 'http://beavertickets.com/', 'text' => 'Tickets', 'image' => 'beaver.png', 'shortcut' => 'T'),
